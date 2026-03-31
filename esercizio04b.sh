@@ -10,7 +10,10 @@
 #      in ambiente/documenti/appunti.txt
 #   3. Verifica con ls che le operazioni siano riuscite
 #
-# Scrivi i comandi qui sotto:
+# Scrivi i comandi qui sotto
+cp -r ambiente sandbox
+mv ambiente/documenti/note.txt ambiente/documenti/appunti.txt
+
 # ------------------------------------------------------------
 
 
