@@ -12,6 +12,8 @@
 #   5. Verifica il risultato finale
 #
 # Scrivi i comandi qui sotto:
+ls -l dati_privati.txt
+
 # ------------------------------------------------------------
 
 

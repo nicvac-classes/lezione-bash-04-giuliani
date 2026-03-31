@@ -18,7 +18,7 @@
 #   Poi verifica il risultato con tree (o ls ricorsivo)
 #
 # Scrivi i comandi qui sotto:
-mkdir -p ambiente/sandbox/scuola{fclassi/{terza/quarta}}
+mkdir -p ambiente/sandbox/scuola{classi/{terza, quarta} documenti/{terza, quarta}}
 tree
 
 # ------------------------------------------------------------
